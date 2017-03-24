@@ -1,3 +1,2 @@
 # vikcode
-anycode
-form
+个人写的React Native Demo
